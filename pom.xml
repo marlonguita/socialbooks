@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>socialbooks</name>
-	<description>API social para livros</description>
+	<description>API Social para livros</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
